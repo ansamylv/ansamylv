@@ -87,12 +87,10 @@ Web application testing with test documentation and bug reports.
 
 <div align="center">
 
-# 🚀 CURRENTLY
+# CURRENTLY
 
 **Manual QA → Test Automation**
 
 <br>
-
-Building practical QA experience and expanding automation skills.
 
 </div>
