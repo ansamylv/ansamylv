@@ -4,135 +4,95 @@
 
 ### QA Engineer
 
-Manual QA · API Testing · Web Testing · Automation
+**Manual QA · API Testing · Web Testing · Automation in Progress**
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=postman,python,postgresql,git,github,bash,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=postman,python,postgresql,git,github,bash,html,css,githubactions&theme=dark" />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
-<img src="https://img.shields.io/badge/Qase-5C4EE5?style=for-the-badge">
-<img src="https://img.shields.io/badge/Charles%20Proxy-222222?style=for-the-badge">
-<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black">
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+<img src="https://img.shields.io/badge/Qase-5C4EE5?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Charles%20Proxy-222222?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
+<img src="https://img.shields.io/badge/SOAP-222222?style=for-the-badge" />
+<img src="https://img.shields.io/badge/REST-222222?style=for-the-badge" />
 
 <br><br>
 
-<a href="https://github.com/ansamylv">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<table>
+<tr>
+<td>
+<a href="https://t.me/ansamylv">
+<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
+</td>
 
-<a href="#">
-<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
+<td>
+<a href="mailto:ansamylv@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 🧪 QA & Testing
+<div align="center">
 
-### Testing
+# 📂 PROJECTS
 
-`Manual Testing` · `Functional Testing` · `Regression Testing`  
-`Smoke Testing` · `Sanity Testing` · `Retesting`  
-`Exploratory Testing` · `Integration Testing` · `System Testing`
+</div>
 
-### Test Documentation
-
-`Checklists` · `Test Cases` · `Bug Reports`
-
-### Test Design
-
-`Equivalence Partitioning` · `Boundary Value Analysis`  
-`Pairwise Testing` · `Decision Tables`  
-`State Transitions` · `Decision Trees`
-
----
-
-## 🌐 API Testing
-
-`REST` · `SOAP` · `Swagger / OpenAPI`
-
-`Postman Automation` · `Assertions` · `JSON Schema`  
-`Collections` · `Environments` · `Newman`
-
----
-
-## 🖥 Web Testing
-
-`Chrome DevTools` · `Charles Proxy`
-
-`HTML` · `CSS`
-
----
-
-## 🗄 Database
-
-`PostgreSQL` · `SQL`
-
----
-
-## ⚙️ Development & CI/CD
-
-`Git` · `GitHub` · `Bash` · `Python`
-
-`GitHub Actions` · `CI/CD`
-
----
-
-## 📂 Projects
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### RESTful Booker API Tests
 
-**API testing & automation**
+API testing project with automated test scenarios.
 
-`Postman` · `REST API` · `Newman` · `GitHub Actions`
-
-Automated API testing project with collections, assertions,
-test scripts and CI execution.
+**Postman · REST API · Newman · CI/CD**
 
 <br>
 
 <a href="https://github.com/ansamylv/restful-booker-api-tests">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
----
+</td>
+
+<td width="50%" valign="top">
 
 ### Hotel Booking Platform Tests
 
-**Web application testing**
+Web application testing with test documentation and bug reports.
 
-`Manual QA` · `Checklists` · `Bug Reports`
-
-Functional and exploratory testing of a real web application.
+**Manual QA · Checklists · Bug Reports**
 
 <br>
 
 <a href="https://github.com/ansamylv/hotel-booking-platform-tests">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
----
-
-## 🚀 Currently Learning
-
-`API Automation` · `Python` · `Test Automation` · `CI/CD`
+</td>
+</tr>
+</table>
 
 ---
 
 <div align="center">
 
-### QA Engineer in progress 🚀
+# 🚀 CURRENTLY
+
+**Manual QA → Test Automation**
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=ansamylv&style=for-the-badge">
+Building practical QA experience and expanding automation skills.
 
 </div>
