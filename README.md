@@ -49,7 +49,7 @@
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### RESTful Booker API Tests
 
@@ -65,7 +65,7 @@ API testing project with automated test scenarios.
 
 </td>
 
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### Hotel Booking Platform Tests
 
@@ -76,6 +76,22 @@ Web application testing with test documentation and bug reports.
 <br>
 
 <a href="https://github.com/ansamylv/hotel-booking-platform-tests">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+
+<td width="33%" valign="top">
+
+### OrangeHRM Manual QA
+
+Learning project on a new HR platform — test design techniques in practice.
+
+**Manual QA · Test Design · Checklists**
+
+<br>
+
+<a href="https://github.com/ansamylv/orangehrm-qa-in-progress">
 <img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
