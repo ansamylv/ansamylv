@@ -8,7 +8,7 @@
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=postman,python,postgresql,git,github,bash,html,css,githubactions&theme=dark" />
+<img src="https://skillicons.dev/icons?i=postman,python,postgresql,git,github,bash,html,css,githubactions,c,cpp,java,javascript,swift,mysql,docker,linux,vscode,idea&theme=dark" />
 
 <br><br>
 
