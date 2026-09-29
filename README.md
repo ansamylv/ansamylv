@@ -22,7 +22,7 @@
 
 **Tools & DevOps**
 
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,postman,bash&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,postman,bash,obsidian&theme=dark" />
 
 <br>
 
