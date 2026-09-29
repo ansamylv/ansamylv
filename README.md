@@ -8,9 +8,33 @@
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=postman,python,postgresql,git,github,bash,html,css,githubactions,c,cpp,java,javascript,swift,mysql,docker,linux,vscode,idea&theme=dark" />
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=c,cpp,java,javascript,python,html,css,swift&theme=dark" />
+
+<br>
+
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=postgresql,mysql&theme=dark" />
+
+<br>
+
+**Tools & DevOps**
+
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,postman,bash&theme=dark" />
+
+<br>
+
+**IDE & OS**
+
+<img src="https://skillicons.dev/icons?i=vscode,idea,windows,linux,apple&theme=dark" />
 
 <br><br>
+
+**QA & Testing**
+
+<br>
 
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
 <img src="https://img.shields.io/badge/Qase-5C4EE5?style=for-the-badge" />
@@ -18,6 +42,7 @@
 <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
 <img src="https://img.shields.io/badge/SOAP-222222?style=for-the-badge" />
 <img src="https://img.shields.io/badge/REST-222222?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Mobile%20Testing-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 
 <br><br>
 
